@@ -50,7 +50,7 @@ Welcome contributions!
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| CIKM | ACM International Conference on Information and Knowledge Management | 知识图谱 |
+| CIKM | ACM International Conference on Information and Knowledge Management | AI |
 | CogSci | Cognitive Science Society Annual Conference | AI |
 | DASFAA | Database Systems for Advanced Applications | AI |
 | ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases | AI |
