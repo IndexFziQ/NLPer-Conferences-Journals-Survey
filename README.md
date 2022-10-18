@@ -1,6 +1,6 @@
-# NLPer-Meetings-Journals-Survey
+# NLPer-Conferences-Journals-Survey
 
-This repo aims to survey all available NLP+AI Meetings and Journals (mainly for NLPers). 
+This repo aims to survey all available NLP+AI Conferences and Journals (mainly for NLPers). 
 Best wishes for the acception of your papers.
 Welcome contributions!
 
