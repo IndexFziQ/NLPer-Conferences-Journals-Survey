@@ -22,7 +22,7 @@ Welcome contributions!
 | Name | Full Name | Area |
 | --- | --- | --- |
 | EMNLP | Conference on Empirical Methods in Natural Language Processing | NLP |
-| COLING | Conference on Natural Language Learning | NLP |
+| COLING | International Conference on Computational Linguistics | NLP |
 | ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
 | ECAI | European Conference on Artificial Intelligence | AI, NLP |
 
