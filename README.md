@@ -17,7 +17,7 @@ Welcome contributions!
 | NeuraIPS | Annual Conference on Neural Information Processing Systems | AI, DL |
 | ICLR | International Conference on Learning Representations | AI, DL |
 
-### **B 类**
+### **CCF-B**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Welcome contributions!
 | ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
 | ECAI | European Conference on Artificial Intelligence | AI, NLP |
 
-### **C类**
+### **CCF-C**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Welcome contributions!
 
 ## Interdisciplinary 
 
-### **A**
+### **CCF-A**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Welcome contributions!
 | SIGIR | International Conference on Research on Development in Information Retrieval | AI |
 | TheWebConf | International World Wide Web Conference | AI |
 
-### **B**
+### **CCF-B**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
