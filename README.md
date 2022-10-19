@@ -16,14 +16,11 @@ Welcome contributions!
 | ICML | International Conference on Machine Learning | ML, AI |
 | NeuraIPS | Annual Conference on Neural Information Processing Systems | AI, DL |
 
-
 ### **CCF-B**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| ICLR | International Conference on Learning Representations | AI, DL |
 | EMNLP | Conference on Empirical Methods in Natural Language Processing | NLP |
-| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | COLING | International Conference on Computational Linguistics | NLP |
 | ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
 | ECAI | European Conference on Artificial Intelligence | AI, NLP |
@@ -32,6 +29,7 @@ Welcome contributions!
 
 | Name | Full Name | Area |
 | --- | --- | --- |
+| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | CoNLL | Conference on Natural Language Learning | NLP |
 | KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
 | IJCNN | International Joint Conference on Neural Networks | AI, NLP |
