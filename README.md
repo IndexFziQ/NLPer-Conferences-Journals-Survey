@@ -15,13 +15,15 @@ Welcome contributions!
 | IJCAI | International Joint Conference on Artificial Intelligence | AI |
 | ICML | International Conference on Machine Learning | ML, AI |
 | NeuraIPS | Annual Conference on Neural Information Processing Systems | AI, DL |
-| ICLR | International Conference on Learning Representations | AI, DL |
+
 
 ### **CCF-B**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
+| ICLR | International Conference on Learning Representations | AI, DL |
 | EMNLP | Conference on Empirical Methods in Natural Language Processing | NLP |
+| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | COLING | International Conference on Computational Linguistics | NLP |
 | ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
 | ECAI | European Conference on Artificial Intelligence | AI, NLP |
@@ -30,7 +32,6 @@ Welcome contributions!
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | CoNLL | Conference on Natural Language Learning | NLP |
 | KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
 | IJCNN | International Joint Conference on Neural Networks | AI, NLP |
@@ -154,7 +155,7 @@ CCF-B, 14.255, Q1
 
 *IEEE Transactions on Neural Networks and Learning Systems* publishes technical articles that deal with the theory, design, and applications of neural networks and related learning systems.
 
-### AIR: ARTIFICIAL INTELLIGENCE REVIEW
+### AIRE: ARTIFICIAL INTELLIGENCE REVIEW
 
 CCF-B, 9.588, Q1
 
@@ -164,7 +165,7 @@ CCF-B, 9.588, Q1
 
 Artificial Intelligence Review publishes state-of-the-art research reports and critical evaluations of applications, techniques and algorithms in artificial intelligence, cognitive science and related disciplines. It serves as a forum for the work of researchers and application developers from these fields.
 
-### ****Journal of Artificial Intelligence Research****
+### JAIR: Journal of Artificial Intelligence Research
 
 CCF-B, 3.59, Q1
 
