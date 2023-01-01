@@ -22,18 +22,19 @@ Welcome contributions!
 | --- | --- | --- |
 | EMNLP | Conference on Empirical Methods in Natural Language Processing | NLP |
 | COLING | International Conference on Computational Linguistics | NLP |
-| ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
+| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | ECAI | European Conference on Artificial Intelligence | AI, NLP |
+| ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
+
 
 ### **CCF-C**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
 | CoNLL | Conference on Natural Language Learning | NLP |
-| KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
-| IJCNN | International Joint Conference on Neural Networks | AI, NLP |
 | NLPCC | CCF International Conference on Natural Language Processing and Chinese Computing | NLP |
+| IJCNN | International Joint Conference on Neural Networks | AI, NLP |
+| KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
 
 ## Interdisciplinary 
 
@@ -41,19 +42,19 @@ Welcome contributions!
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| SIGKDD | ACM Knowledge Discovery and Data Mining | AI |
-| SIGIR | International Conference on Research on Development in Information Retrieval | AI |
 | TheWebConf | International World Wide Web Conference | AI |
+| SIGIR | International Conference on Research on Development in Information Retrieval | IR |
+| SIGKDD | ACM Knowledge Discovery and Data Mining | DM |
 
 ### **CCF-B**
 
 | Name | Full Name | Area |
 | --- | --- | --- |
-| CIKM | ACM International Conference on Information and Knowledge Management | AI |
 | CogSci | Cognitive Science Society Annual Conference | AI |
-| DASFAA | Database Systems for Advanced Applications | AI |
-| ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases | AI |
-| WSDM | ACM International Conference on Web Search and Data Mining | AI |
+| CIKM | ACM International Conference on Information and Knowledge Management | IR |
+| WSDM | ACM International Conference on Web Search and Data Mining | IR |
+| ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases | DM |
+| DASFAA | Database Systems for Advanced Applications | DM |
 
 ## NLP+AI Journals
 
@@ -123,7 +124,7 @@ The site you are currently visiting serves as an informal repository for informa
 
 ### TASLP: Transactions on Audio, Speech and Language Processing
 
-CCF-B, 4.364, Q1
+CCF-B, 4.364, Q2
 
 [https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing)
 
