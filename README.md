@@ -33,6 +33,7 @@ Welcome contributions!
 | Name | Full Name | Area |
 | --- | --- | --- |
 | CoNLL | Conference on Natural Language Learning | NLP |
+| AACL | Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics | NLP |
 | NLPCC | CCF International Conference on Natural Language Processing and Chinese Computing | NLP |
 | IJCNN | International Joint Conference on Neural Networks | AI, NLP |
 | KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
