@@ -1,6 +1,7 @@
 # NLPer-Conferences-Journals-Survey
 
 This repo aims to survey all available NLP+AI Conferences and Journals (mainly for NLPers). 
+
 Best wishes for the acception of your papers.
 Welcome contributions!
 
@@ -13,9 +14,9 @@ Welcome contributions!
 | ACL | Annual Meeting of the Association for Computational Linguistics | NLP |
 | AAAI | AAAI Conference on Artificial Intelligence | AI |
 | IJCAI | International Joint Conference on Artificial Intelligence | AI |
-| ICML | International Conference on Machine Learning | ML, AI |
-| NeuraIPS | Annual Conference on Neural Information Processing Systems | AI, DL |
-| *ICLR* | *International Conference on Learning Representations* | AI, DL |
+| ICML | International Conference on Machine Learning | ML |
+| NeuraIPS | Annual Conference on Neural Information Processing Systems | DL |
+| *ICLR* | *International Conference on Learning Representations* | DL |
 
 ### **CCF-B**
 
@@ -24,7 +25,7 @@ Welcome contributions!
 | EMNLP | Conference on Empirical Methods in Natural Language Processing | NLP |
 | COLING | International Conference on Computational Linguistics | NLP |
 | NAACL | The Annual Conference of the North American Chapter of the Association for Computational Linguistics | NLP |
-| ECAI | European Conference on Artificial Intelligence | AI, NLP |
+| ECAI | European Conference on Artificial Intelligence | AI |
 | ICASSP | The International Conference on Acoustics, Speech, & Signal Processing | Speech, NLP |
 
 
@@ -35,7 +36,7 @@ Welcome contributions!
 | CoNLL | Conference on Natural Language Learning | NLP |
 | AACL | Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics | NLP |
 | NLPCC | CCF International Conference on Natural Language Processing and Chinese Computing | NLP |
-| IJCNN | International Joint Conference on Neural Networks | AI, NLP |
+| IJCNN | International Joint Conference on Neural Networks | DL |
 | KSEM | International conference on Knowledge Science,Engineering and Management | NLP |
 
 ## Interdisciplinary 
