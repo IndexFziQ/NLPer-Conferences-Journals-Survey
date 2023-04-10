@@ -217,7 +217,7 @@ Neurocomputing reports on applications in different fields, including, but not r
 
 ### TACL: **Transactions of the Association for Computational Linguistics**
 
-CCF-None, 14.27, Q1
+CCF-B, 14.27, Q1
 
 **[Transactions of the Association for Computational Linguistics](https://transacl.org/)**
 
